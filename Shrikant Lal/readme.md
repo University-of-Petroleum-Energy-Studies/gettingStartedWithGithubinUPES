@@ -1,5 +1,5 @@
 <h1>My name is Shrikant Lal</h1>
-<ul style="list-style-type:disc>
+<ul>
 <l1>Skillsets</li>
 <l1>.C</li>
 <l1>.C++</li>
