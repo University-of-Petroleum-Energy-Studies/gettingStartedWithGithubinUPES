@@ -1,6 +1,6 @@
 <h1>My name is Shrikant Lal</h1>
+<h2>Skillsets</h2>
 <ul>
-<l1>Skillsets</li>
 <l1>.C</li>
 <l1>.C++</li>
 <l1>.Java</li>
